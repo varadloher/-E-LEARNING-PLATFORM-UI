@@ -29,3 +29,5 @@ The multi-page interface is routed using React Router, allowing seamless transit
 The final front-end design is fully responsive, interactive, and aesthetically appealing, offering a professional and immersive experience to learners. It fulfills core e-learning functionalities—course discovery, progress monitoring, and embedded multimedia content—while maintaining a modern design standard that aligns with current UI/UX best practices. This solution lays a strong foundation for integration with backend services such as user authentication, course data APIs, and progress storage, ensuring the platform is both scalable and future-ready
 
 #output
+
+![Image](https://github.com/user-attachments/assets/9505e914-4e7c-452c-9ad3-9e41f68da80e)
